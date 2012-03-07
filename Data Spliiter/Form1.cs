@@ -17,8 +17,6 @@ namespace DataSplitter
         public Form1()
         {
             InitializeComponent();
-            inputFileNameTextBox.Text = "C:\\Users\\Hannes Benson\\Desktop\\ee2.xlsx";
-            outputFolderTextBox.Text = "C:\\Users\\Hannes Benson\\Desktop\\temp";
         }
 
         private void inputFilebutton_Click(object sender, EventArgs e)
