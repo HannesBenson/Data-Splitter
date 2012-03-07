@@ -1,4 +1,4 @@
-﻿namespace Data_Spliiter
+﻿namespace DataSplitter
 {
     partial class Form3
     {

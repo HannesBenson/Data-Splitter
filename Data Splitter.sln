@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual C# Express 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data Spliiter", "Data Spliiter\Data Spliiter.csproj", "{A553FC38-BFB4-410E-9ABA-7084C4F2E013}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data Splitter", "Data Spliiter\Data Splitter.csproj", "{A553FC38-BFB4-410E-9ABA-7084C4F2E013}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

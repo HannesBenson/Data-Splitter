@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace Data_Spliiter
+namespace DataSplitter
 {
     public partial class Form3 : Form
     {

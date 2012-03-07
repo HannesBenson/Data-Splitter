@@ -10,7 +10,7 @@ using System.Windows.Forms;
 using Excel=Microsoft.Office.Interop.Excel;
 
 
-namespace Data_Spliiter
+namespace DataSplitter
 {
     public partial class Form1 : Form
     {
